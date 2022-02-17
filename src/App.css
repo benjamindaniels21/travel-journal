@@ -19,3 +19,11 @@
   font-size: 1.5rem;
   padding-right: 8px;
 }
+
+.experience {
+  width: 470px;
+  height: 169.43px;
+  background-color: lightblue;
+  display: flex;
+  /* margin: auto; */
+}
