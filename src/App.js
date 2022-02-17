@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Experience />
+      <Experience city="JAPAN" />
     </div>
   );
 }
