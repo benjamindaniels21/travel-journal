@@ -1,12 +1,12 @@
 import "./App.css";
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCoffee } from "@fortawesome/free-solid-svg-icons";
+import { faCoffee, faGlobeAfrica } from "@fortawesome/free-solid-svg-icons";
 function Header() {
   return (
     <div className="header">
+      <FontAwesomeIcon icon={faGlobeAfrica} className="globe" />
       <h1>Travel Journal</h1>
-      <FontAwesomeIcon icon={faCoffee} />
     </div>
   );
 }
