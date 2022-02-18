@@ -22,8 +22,6 @@
 
 .experience {
   width: 800px;
-  /* height: 169.43px; */
-  /* background-color: lightblue;  */
   display: flex;
   margin-left: 30px;
   margin-top: 20px;
@@ -37,7 +35,6 @@
 
 .experience--info {
   display: inline-block;
-  background-color: aliceblue;
   padding-left: 20px;
 }
 
@@ -72,7 +69,6 @@ a {
   font-weight: bold;
   font-size: 25px;
   line-height: 30px;
-
   color: #2b283a;
 }
 
@@ -90,6 +86,5 @@ a {
   font-weight: normal;
   font-size: 10.24px;
   line-height: 150%;
-
   color: #2b283a;
 }

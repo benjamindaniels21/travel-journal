@@ -6,7 +6,7 @@ function Experience(props) {
   console.log(props);
   return (
     <div className="experience">
-      <img className="experience--image" src="japan.jpeg" alt="japan" />
+      <img className="experience--image" src={props.img} alt="japan" />
       <div className="experience--info">
         <h3>{props.city}</h3>
         <a href="https://google.com">
