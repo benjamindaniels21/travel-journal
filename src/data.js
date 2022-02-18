@@ -1,19 +1,18 @@
-export default const data = [
+export default [
   {
     id: 1,
-    city: Japan,
+    city: "Japan",
   },
   {
     id: 2,
-    city: London,
+    city: "London",
   },
   {
     id: 3,
-    city: Milan,
+    city: "Milan",
   },
   {
     id: 4,
-    city: Nirobi,
+    city: "Nairobi",
   },
-
 ];
