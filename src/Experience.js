@@ -12,13 +12,9 @@ function Experience(props) {
         <a href="https://google.com">
           <p>View on Google Maps</p>
         </a>
-        <h1 className="destination">Mount Fuji</h1>
-        <p className="travel-dates">12 Jan, 2021 - 24 Jan, 2021</p>
-        <p className="description">
-          Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters
-          (12,380 feet). Mount Fuji is the single most popular tourist site in
-          Japan, for both Japanese and foreign tourists.
-        </p>
+        <h1 className="destination">{props.destination}</h1>
+        <p className="travel-dates">{props.dates}</p>
+        <p className="description">{props.description}</p>
       </div>
     </div>
   );
