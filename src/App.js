@@ -1,7 +1,7 @@
 import "./App.css";
 import Header from "./Header";
 import Experience from "./Experience";
-import data from "./data";
+import { data } from "./data.js";
 
 function App() {
   const experience = data.map((exp) => {
