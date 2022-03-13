@@ -26,4 +26,12 @@ export const data = [
       "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
     img: "norway.jpeg",
   },
+  {
+    id: 4,
+    city: "Vegas",
+    destination: "Palms",
+    dates: "12 Jan, 2021 - 24 Jan, 2021",
+    description: "Vegas Rules",
+    img: "./japan.jpeg",
+  },
 ];
