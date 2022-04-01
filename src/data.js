@@ -31,7 +31,8 @@ export const data = [
     city: "Vegas",
     destination: "Palms",
     dates: "12 Jan, 2021 - 24 Jan, 2021",
-    description: "Vegas Rules",
-    img: "./japan.jpeg",
+    description:
+      "Las Vegas, often known simply as Vegas, is the 26th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert.",
+    img: "./Vegas.jpg",
   },
 ];
