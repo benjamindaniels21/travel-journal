@@ -4,8 +4,21 @@
   background-color: #f55a5a;
   height: 80px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+}
+
+.button {
+  margin-right: 10px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: white;
+  border: 2px solid #f55a5a;
+  font-family: "Inter", sans-serif;
+}
+
+.button:hover {
+  background-color: #74b2df;
 }
 
 .header > h1 {
